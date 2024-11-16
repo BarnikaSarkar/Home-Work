@@ -9,7 +9,6 @@ body{
 }
 footer{
     display:flex;
-    position:fixed;
 }
 button{
     background-color: gold;
