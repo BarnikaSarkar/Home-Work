@@ -1,0 +1,17 @@
+ul{
+    display:flex;
+    justify-content: space-between;
+    list-style-type: none;
+    background-color: darkgoldenrod;
+}
+body{
+    background-color:khaki;
+}
+footer{
+    display:flex;
+    position:fixed;
+}
+button{
+    background-color: gold;
+
+}
