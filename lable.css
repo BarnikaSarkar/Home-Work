@@ -9,8 +9,13 @@ body{
 }
 footer{
     display:flex;
+    bottom:0;
+    color:brown
+}
+h1{
+    color:darkred
 }
 button{
-    background-color: gold;
-
+    background-color: yellow;
 }
+
